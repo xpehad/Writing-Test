@@ -37,7 +37,8 @@ Git dan Github adalah tools yang wajib digunakan oleh programmer khususnya saat 
     ```
 
 3. Membuat Repositori Github, Bisa Langsung Melalui Website github.com
-   <img src="./Image/newgithub.png" width="350" alt="Terminal" >
+
+    <img src="./Image/newgithub.png" width="350" alt="Terminal" >
 
 4. Membuat Folder Kosong di local, kemudian melakukan init dengan perintah
 
